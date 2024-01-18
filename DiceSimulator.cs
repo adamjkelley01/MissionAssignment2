@@ -1,4 +1,8 @@
-﻿using System;
+﻿///Adam Kelley
+///Section 4 Group 8
+
+
+using System;
 
 namespace MissionAssignment2
 {
